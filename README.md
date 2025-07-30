@@ -6,7 +6,7 @@ A fully offline, modular solar Q&A and troubleshooting tool for disaster and rur
 - Troubleshooter, Estimator, Disaster Guides, and more
 - Web and CLI interface
 ## How to Run
-1. Install Ollama, pull Gemma:2b-it
+1. Install Ollama, pull Gemma:7b-it
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run `ollama serve`
 4. Run `python web_app.py`
